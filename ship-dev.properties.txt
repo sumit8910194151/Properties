@@ -1,0 +1,11 @@
+ship.msg =Welcome to the EazyBank ship Dev application
+ship.build-version=2
+
+ship.mailDetails.hostName=dev-ship@eazybytes.com
+ship.mailDetails.port=9020
+ship.mailDetails.from=dev-ship@eazybytes.com
+ship.mailDetails.subject=Your Ship Details from Eazy Bank Dev Environment
+
+ship.activeBranches[0]=Chennai
+ship.activeBranches[1]=Berlin
+ship.activeBranches[2]=Indianapollis

@@ -1,0 +1,11 @@
+cart.msg =Welcome to the EazyBank cart Dev application
+cart.build-version=2
+
+cart.mailDetails.hostName=dev-cart@eazybytes.com
+cart.mailDetails.port=9020
+cart.mailDetails.from=dev-cart@eazybytes.com
+cart.mailDetails.subject=Your Cart Details from Eazy Bank Dev Environment
+
+cart.activeBranches[0]=Chennai
+cart.activeBranches[1]=Berlin
+cart.activeBranches[2]=Indianapollis

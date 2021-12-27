@@ -1,0 +1,11 @@
+inventory.msg =Welcome to the EazyBank inventory Default application
+inventory.build-version=3
+
+inventory.mailDetails.hostName=default-inventory@eazybytes.com
+inventory.mailDetails.port=9000
+inventory.mailDetails.from=default-inventory@eazybytes.com
+inventory.mailDetails.subject=Your Inventory Details from Eazy Bank Default Environment
+
+inventory.activeBranches[0]=Mumbai
+inventory.activeBranches[1]=London
+inventory.activeBranches[2]=Washington

@@ -1,0 +1,11 @@
+product.msg =Welcome to the EazyBank product Default application
+product.build-version=3
+
+product.mailDetails.hostName=default-product@eazybytes.com
+product.mailDetails.port=9000
+product.mailDetails.from=default-product@eazybytes.com
+product.mailDetails.subject=Your Product Details from Eazy Bank Default Environment
+
+product.activeBranches[0]=Mumbai
+product.activeBranches[1]=London
+product.activeBranches[2]=Washington

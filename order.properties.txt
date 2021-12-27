@@ -1,0 +1,11 @@
+order.msg =Welcome to the EazyBank order Default application
+order.build-version=3
+
+order.mailDetails.hostName=default-order@eazybytes.com
+order.mailDetails.port=9000
+order.mailDetails.from=default-order@eazybytes.com
+order.mailDetails.subject=Your Order Details from Eazy Bank Default Environment
+
+order.activeBranches[0]=Mumbai
+order.activeBranches[1]=London
+order.activeBranches[2]=Washington

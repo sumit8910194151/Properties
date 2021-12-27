@@ -1,0 +1,11 @@
+inventory.msg =Welcome to the EazyBank inventory Prod application
+inventory.build-version=1
+
+inventory.mailDetails.hostName=prod-inventory@eazybytes.com
+inventory.mailDetails.port=9010
+inventory.mailDetails.from=prod-inventory@eazybytes.com
+inventory.mailDetails.subject=Your Inventory Details from Eazy Bank Production Environment
+
+inventory.activeBranches[0]=Hyderabad
+inventory.activeBranches[1]=Paris
+inventory.activeBranches[2]=NewYork

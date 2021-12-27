@@ -1,0 +1,11 @@
+cart.msg =Welcome to the EazyBank cart Default application
+cart.build-version=3
+
+cart.mailDetails.hostName=default-cart@eazybytes.com
+cart.mailDetails.port=9000
+cart.mailDetails.from=default-cart@eazybytes.com
+cart.mailDetails.subject=Your cart Details from Eazy Bank Default Environment
+
+cart.activeBranches[0]=Mumbai
+cart.activeBranches[1]=London
+cart.activeBranches[2]=Washington

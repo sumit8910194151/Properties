@@ -1,0 +1,11 @@
+inventory.msg =Welcome to the EazyBank inventory Dev application
+inventory.build-version=2
+
+inventory.mailDetails.hostName=dev-inventory@eazybytes.com
+inventory.mailDetails.port=9020
+inventory.mailDetails.from=dev-inventory@eazybytes.com
+inventory.mailDetails.subject=Your Inventory Details from Eazy Bank Dev Environment
+
+inventory.activeBranches[0]=Chennai
+inventory.activeBranches[1]=Berlin
+inventory.activeBranches[2]=Indianapollis

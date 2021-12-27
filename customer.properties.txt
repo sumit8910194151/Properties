@@ -1,0 +1,11 @@
+customer.msg =Welcome to the EazyBank customer Default application
+customer.build-version=3
+
+customer.mailDetails.hostName=default-customer@eazybytes.com
+customer.mailDetails.port=9000
+customer.mailDetails.from=default-customer@eazybytes.com
+customer.mailDetails.subject=Your Customer Details from Eazy Bank Default Environment
+
+customer.activeBranches[0]=Mumbai
+customer.activeBranches[1]=London
+customer.activeBranches[2]=Washington

@@ -1,0 +1,11 @@
+order.msg =Welcome to the EazyBank order Prod application
+order.build-version=1
+
+order.mailDetails.hostName=prod-order@eazybytes.com
+order.mailDetails.port=9010
+order.mailDetails.from=prod-order@eazybytes.com
+order.mailDetails.subject=Your Order Details from Eazy Bank Production Environment
+
+order.activeBranches[0]=Hyderabad
+order.activeBranches[1]=Paris
+order.activeBranches[2]=NewYork

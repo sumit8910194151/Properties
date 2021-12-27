@@ -1,0 +1,11 @@
+ship.msg =Welcome to the EazyBank ship Default application
+ship.build-version=3
+
+ship.mailDetails.hostName=default-ship@eazybytes.com
+ship.mailDetails.port=9000
+ship.mailDetails.from=default-ship@eazybytes.com
+ship.mailDetails.subject=Your Ship Details from Eazy Bank Default Environment
+
+ship.activeBranches[0]=Mumbai
+ship.activeBranches[1]=London
+ship.activeBranches[2]=Washington

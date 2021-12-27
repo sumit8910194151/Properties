@@ -1,0 +1,11 @@
+customer.msg =Welcome to the EazyBank customer Dev application
+customer.build-version=2
+
+customer.mailDetails.hostName=dev-customer@eazybytes.com
+customer.mailDetails.port=9020
+customer.mailDetails.from=dev-customer@eazybytes.com
+customer.mailDetails.subject=Your customer Details from Eazy Bank Dev Environment
+
+customer.activeBranches[0]=Chennai
+customer.activeBranches[1]=Berlin
+customer.activeBranches[2]=Indianapollis

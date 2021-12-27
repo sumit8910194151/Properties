@@ -1,0 +1,11 @@
+product.msg =Welcome to the EazyBank product Prod application
+product.build-version=1
+
+product.mailDetails.hostName=prod-product@eazybytes.com
+product.mailDetails.port=9010
+product.mailDetails.from=prod-product@eazybytes.com
+product.mailDetails.subject=Your Product Details from Eazy Bank Production Environment
+
+product.activeBranches[0]=Hyderabad
+product.activeBranches[1]=Paris
+product.activeBranches[2]=NewYork

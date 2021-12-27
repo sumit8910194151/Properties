@@ -1,0 +1,11 @@
+cart.msg =Welcome to the EazyBank cart Prod application
+cart.build-version=1
+
+cart.mailDetails.hostName=prod-cart@eazybytes.com
+cart.mailDetails.port=9010
+cart.mailDetails.from=prod-cart@eazybytes.com
+cart.mailDetails.subject=Your Account Details from Eazy Bank Production Environment
+
+cart.activeBranches[0]=Hyderabad
+cart.activeBranches[1]=Paris
+cart.activeBranches[2]=NewYork

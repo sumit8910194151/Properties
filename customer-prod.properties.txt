@@ -1,0 +1,11 @@
+customer.msg =Welcome to the EazyBank customer Prod application
+customer.build-version=1
+
+customer.mailDetails.hostName=prod-customer@eazybytes.com
+customer.mailDetails.port=9010
+customer.mailDetails.from=prod-customer@eazybytes.com
+customer.mailDetails.subject=Your Customer Details from Eazy Bank Production Environment
+
+customer.activeBranches[0]=Hyderabad
+customer.activeBranches[1]=Paris
+customer.activeBranches[2]=NewYork

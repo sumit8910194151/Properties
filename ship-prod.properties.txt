@@ -1,0 +1,11 @@
+ship.msg =Welcome to the EazyBank ship Prod application
+ship.build-version=1
+
+ship.mailDetails.hostName=prod-ship@eazybytes.com
+ship.mailDetails.port=9010
+ship.mailDetails.from=prod-ship@eazybytes.com
+ship.mailDetails.subject=Your Ship Details from Eazy Bank Production Environment
+
+ship.activeBranches[0]=Hyderabad
+ship.activeBranches[1]=Paris
+ship.activeBranches[2]=NewYork
